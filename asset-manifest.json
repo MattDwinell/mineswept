@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/mineswept/static/css/main.073c9b0a.css",
-    "main.js": "/mineswept/static/js/main.70671f9f.js",
+    "main.css": "/mineswept/static/css/main.a19a11cd.css",
+    "main.js": "/mineswept/static/js/main.f1a49c75.js",
     "static/js/787.66ee3cbe.chunk.js": "/mineswept/static/js/787.66ee3cbe.chunk.js",
-    "static/media/logo.svg": "/mineswept/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/red_bomb.png": "/mineswept/static/media/red_bomb.296a9e3a3793a91d9a46.png",
+    "static/media/rounded_flag.webp": "/mineswept/static/media/rounded_flag.b7891bc141c6dd954607.webp",
     "index.html": "/mineswept/index.html",
-    "main.073c9b0a.css.map": "/mineswept/static/css/main.073c9b0a.css.map",
-    "main.70671f9f.js.map": "/mineswept/static/js/main.70671f9f.js.map",
+    "main.a19a11cd.css.map": "/mineswept/static/css/main.a19a11cd.css.map",
+    "main.f1a49c75.js.map": "/mineswept/static/js/main.f1a49c75.js.map",
     "787.66ee3cbe.chunk.js.map": "/mineswept/static/js/787.66ee3cbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.70671f9f.js"
+    "static/css/main.a19a11cd.css",
+    "static/js/main.f1a49c75.js"
   ]
 }
